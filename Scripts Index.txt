@@ -1,0 +1,19 @@
+Cell Reports Scripts/Flow Analysis/ directory - scripts for analysis of the cell cycle speed (Figure 3D)
+
+Cell Reports Scripts/Simulation/PotentialEnergy directory - scripts for potential energy analysis of methylation-only
+                                                       and methylation compaction models (Supplementary Figure S3)
+
+Cell Reports Scripts/Simulation/TFRevision directory - scripts for analysis of transcription factor effect on
+                                                       methylation compaction models (Figure 5)
+
+Cell Reports Scripts/Simulation/TFRevision directory - scripts for analysis of transcription factor effect on
+                                                       methylation compaction models (Figure 5)
+
+Cell Reports Scripts/Simulation/ModelFiles directory - scripts for the methylation, methylation-compaction
+                                                       models and their variations (Figure 4, Supplementary Figures S3(A-B), S4, S5)
+
+Cell Reports Scripts/Simulation/ directory           - scripts for analysis of the methylation, methylation-compaction
+                                                       models and their variations (Figure 4, Supplementary Figures S3(A-B), S4, S5)
+
+Cell Reports Scripts/Imaging/ directory              - scripts for analysis of the imaging assay of cell cycle speed
+                                                       (Figure 3A-C, Supplementary Figures S2)
